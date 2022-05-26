@@ -1,0 +1,205 @@
+body {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
+
+.div1 {
+    background-color: rgb(0, 61, 117);
+    color: azure;
+}
+
+.div1Top {
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+
+p {
+    margin: 0;
+}
+
+.padding {
+    padding: 0px 100px 100px 100px;
+
+}
+
+.headerlinks {
+    display: flex;
+    gap: 30px;
+    font-size: large;
+
+}
+
+.headerlogo {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 900;
+
+}
+
+.div1Bottom {
+    display: flex;
+    gap: 150px;
+    padding-top: 70px;
+}
+
+.div1Text {
+    padding-left: 70px;
+
+}
+
+.descriptionTitle {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bolder;
+    flex-wrap: wrap;
+
+}
+
+.div1Pic {
+    padding-right: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+img {
+    width: 500px;
+    height: 200px;
+}
+
+button {
+    margin-top: 30px;
+    background-color: #006bb3e5;
+    border-radius: 5px;
+    padding: 10px;
+    border: 0ch;
+}
+
+
+
+.div2 {
+    background-color: rgb(240, 240, 240);
+    padding: 90px;
+}
+
+.skills {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    font-size: 35px;
+    font-weight: 900;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.box1 {
+    border: 5px solid #006bb3e5;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.box2 {
+    border: 5px solid #006bb3e5;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.box3 {
+    border: 5px solid #006bb3e5;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.box4 {
+    border: 5px solid #006bb3e5;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    
+}
+
+.boxes {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    
+}
+.under-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1000;
+    font-size: 20px;
+}
+
+
+
+
+.div3 {
+
+    background-color: rgb(144, 146, 146);
+}
+.quote {
+    padding: 150px;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div4 {
+    background-color: white;
+    justify-content: center;
+        align-items: center;
+        display: flex;
+}
+.rect {
+    display: flex;
+    width: 70%;
+    height: 60%;
+    background-color: rgb(0, 93, 155);
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+.rect-text {
+    padding: 50px;
+    
+}
+.rect-line {
+    font-size: large;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 100;
+}
+.rect-description {
+    font-size: large;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 700;
+}
+
+.div5 {
+    background-color: black;
+
+}
+.end {
+    font-size: large;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
